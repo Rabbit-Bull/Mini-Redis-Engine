@@ -1,0 +1,5 @@
+build/
+mini_redis.wal
+.cache/
+compile_commands.json
+*.exe
